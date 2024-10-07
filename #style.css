@@ -6,12 +6,10 @@
     --preto: #000000;
     --branco: #ffffff;
 }
-
 body{
     background-color: var(--fundo);
     margin: 0;
 }
-
 footer{
     position: fixed;
     bottom: 0;
