@@ -9,7 +9,7 @@ cartao.innerHTML = `
         <p>pergunta</p>
     </div>
     <div class="resposta-cartao">
-        <h3>resposta</h3>
+        <p>resposta</p>
         </div>
 </div>
 `
